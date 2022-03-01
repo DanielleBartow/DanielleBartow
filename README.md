@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielleBartow
-- 👀 I’m interested in networking with fellow nerds and learning just about anything 
+- 👀 I’m interested in networking with fellow nerds and learning just about anything. Also here to spread the word of Atomic Red Team!
 - 🌱 I’m currently learning more about the security industry
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me https://www.linkedin.com/in/daniellebartow/
